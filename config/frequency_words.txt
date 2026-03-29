@@ -10,37 +10,30 @@
 服务机器人
 餐饮机器人
 人机交互
-Emotion AI
 Social Robots
 
 [全球机器人公司]
 /波士顿动力|Boston Dynamics|Atlas/ => 波士顿动力
-/优必选|Ubtech/ => 优必选
-/Agility Robotics|Digit|Cassie/ => Agility Robotics
-/Aeolus Robotics|家庭服务机器人/ => Aeolus Robotics
-/深兰|DeepBlue/ => 深兰科技机器人
-/小i机器人|小冰/ => 国产机器人
 /宇树科技/宇树=>宇树机器人
 
-[机器人技术]
+[宇树科技]
+宇树
+Unitree
+王兴兴
+人形机器人
+四足机器人
+机器人
+机器狗
+Go1
+A1
+B1
+H1
+Walker
+灵巧手
 具身智能
-机器人控制算法
-关节自由度
-机器学习驱动的机器人
-智能机械臂
-计算机视觉机器人
-移动机器人
 
-[行业应用]
-医疗机器人
-工业机器人
-仓储机器人
-物流机器人
-个人助理机器人
-家用机器人
-AI与自动化
+
 
 [机器人科学家与代表人物]
-/马斯克|特斯拉|Optimus|特斯拉机器人|泰坦机器人/ => 特斯拉寒武纪
-/优必选创始人|汪滔|牛憨笨机器人|汪锋机器人/ => 机器人代表
-/人工智能伦理|技术道德探讨|机器人会不会取代人类/ => 科技与伦理
+/宇树科技王兴兴 \bUnitree\b \bGo1\b \bA1\b \bH1\b \bB2\b \bLegged Robot\b \bQuadruped Robot\b
+\bWang Xingxing\b/ => 宇树科技
