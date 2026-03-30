@@ -32,8 +32,6 @@ Walker
 灵巧手
 具身智能
 
-
-
 [机器人科学家与代表人物]
 /宇树科技王兴兴 \bUnitree\b \bGo1\b \bA1\b \bH1\b \bB2\b \bLegged Robot\b \bQuadruped Robot\b
 \bWang Xingxing\b/ => 宇树科技
